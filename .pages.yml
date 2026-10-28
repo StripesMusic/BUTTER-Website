@@ -25,8 +25,9 @@ content:
             type: boolean
             default: false
           - name: coverImage
-            label: Cover art
-            type: image
+            label: Cover art link
+            description: "Full R2 link, e.g. https://artworks.buttermusic.dk/NewSongArtwork.jpg"
+            type: string
           - { name: label, label: Record label, type: string }
           - { name: genre, label: Genre, type: string }
           - { name: bpm, label: BPM, type: number }
