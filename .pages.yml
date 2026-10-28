@@ -1,0 +1,107 @@
+# Pages CMS config (https://pagescms.org). Edits commit to this repo and
+# Cloudflare Pages redeploys the site automatically.
+
+media:
+  input: public/media
+  output: /media
+
+content:
+  - name: music
+    label: Music
+    type: file
+    path: src/content/music.json
+    format: json
+    fields:
+      - name: releases
+        label: Releases
+        description: Shown on the site in this order, newest first.
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Title, type: string, required: true }
+          - { name: year, label: Year, type: string, required: true }
+          - name: isEP
+            label: EP
+            description: Turn on for an EP with a track list.
+            type: boolean
+            default: false
+          - name: coverImage
+            label: Cover art
+            type: image
+          - { name: label, label: Record label, type: string }
+          - { name: genre, label: Genre, type: string }
+          - { name: bpm, label: BPM, type: number }
+          - { name: key, label: Key, type: string }
+          - name: tracks
+            label: Tracks (EPs only)
+            type: object
+            list: true
+            fields:
+              - { name: trackNumber, label: Track number, type: number }
+              - { name: title, label: Title, type: string }
+              - { name: featuring, label: Featuring, type: string }
+              - { name: bpm, label: BPM, type: number }
+              - { name: key, label: Key, type: string }
+          - name: collaborators
+            label: Collaborators
+            type: object
+            list: true
+            fields:
+              - { name: name, label: Name, type: string }
+              - { name: pfp, label: Profile picture, type: image }
+              - { name: spotify, label: Spotify artist link, type: string }
+          - name: streams
+            label: Streaming links
+            description: Links that are empty or not full URLs are hidden on the site.
+            type: object
+            list: true
+            fields:
+              - name: platform
+                label: Platform
+                type: select
+                options:
+                  values: [Spotify, Apple Music, SoundCloud, YouTube Music]
+              - { name: url, label: Link, type: string }
+
+  - name: tour
+    label: Tour
+    type: file
+    path: src/content/tour.json
+    format: json
+    fields:
+      - name: shows
+        label: Shows
+        type: object
+        list: true
+        fields:
+          - { name: date, label: Date, type: string, description: "Shown as written, e.g. 14 MAR 2027 or TBA" }
+          - { name: city, label: City, type: string }
+          - { name: venue, label: Venue, type: string }
+          - { name: country, label: Country, type: string }
+          - name: status
+            label: Status
+            description: "tickets shows a Tickets button using the link below"
+            type: select
+            options:
+              values: [tickets, sold-out, coming-soon]
+          - { name: ticketUrl, label: Ticket link, type: string }
+      - { name: note, label: Note under the list, type: string }
+
+  - name: socials
+    label: Socials
+    type: file
+    path: src/content/socials.json
+    format: json
+    fields:
+      - name: links
+        label: Links
+        description: The icons in the bottom-right corner, top to bottom.
+        type: object
+        list: true
+        fields:
+          - name: platform
+            label: Platform
+            type: select
+            options:
+              values: [Instagram, Spotify, SoundCloud, Facebook, YouTube, Email]
+          - { name: url, label: Link or email address, type: string }

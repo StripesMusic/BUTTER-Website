@@ -1,0 +1,1095 @@
+{
+  "releases": [
+    {
+      "title": "Lose My Mind",
+      "year": "2026",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/LoseMyMindArtwork.jpg",
+      "label": "Future House Music",
+      "genre": "Bass House/Future House",
+      "bpm": 130,
+      "key": "D# maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/4WJT5aBVraOmRxHr0dKbVI"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/lose-my-mind-single/6798644971"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/futurehousemusic/butter-lose-my-mind"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=IZf8YrLUnKc"
+        }
+      ]
+    },
+    {
+      "title": "Changed The Way You Kiss Me (BUTTER, W3TT3R Remix)",
+      "year": "2026",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/ChangedTheWayYouKissedMeRemixArtwork.jpg",
+      "label": "Unofficial Remix",
+      "genre": "Bass House/Future House",
+      "bpm": 130,
+      "key": "E minor",
+      "collaborators": [
+        {
+          "name": "W3TT3R",
+          "pfp": "https://collaborators.buttermusic.dk/W3TT3R.jpg",
+          "spotify": "https://open.spotify.com/artist/3NQL8GCVvddd9FDyvGdvm0"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/calvin-harris-outside-ft-ellie"
+        }
+      ]
+    },
+    {
+      "title": "Outside (BUTTER Remix)",
+      "year": "2026",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/OutsideRemixArtwork.jpg",
+      "label": "Unofficial Remix",
+      "genre": "Bass House",
+      "bpm": 132,
+      "key": "D minor",
+      "streams": [
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/calvin-harris-outside-ft-ellie"
+        }
+      ]
+    },
+    {
+      "title": "Silence",
+      "year": "2026",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/SilenceArtwork.jpg",
+      "label": "STMPD RCRDS",
+      "genre": "Bass House/Future House",
+      "bpm": 126,
+      "key": "D min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/4ji17rMLAU854Plh8Hx5D9"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/silence/1888445855?i=1888445857"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/butter-silence-radio-edit"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=I5i-ffyin4E"
+        }
+      ]
+    },
+    {
+      "title": "Where I'm Found",
+      "year": "2026",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/WhereImFoundArtwork.jpg",
+      "label": "DIMENSION BASS",
+      "genre": "Future Rave",
+      "bpm": 130,
+      "key": "G maj",
+      "collaborators": [
+        {
+          "name": "Eloi Fajardo",
+          "pfp": "https://collaborators.buttermusic.dk/EloiFajardo.jpg",
+          "spotify": "https://open.spotify.com/artist/1GohZMFtDGI1XkhbyYb43c"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/4Io0i5n111seBxUehYq3EQ"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/where-im-found/1875726580?i=1875726581"
+        }
+      ]
+    },
+    {
+      "title": "Down & Dirty",
+      "year": "2025",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/DownAndDirtyArtwork.jpg",
+      "label": "Barong Family",
+      "genre": "Tech House",
+      "bpm": 130,
+      "key": "A# min",
+      "collaborators": [
+        {
+          "name": "Lefris",
+          "pfp": "https://collaborators.buttermusic.dk/Lefris.jpg",
+          "spotify": "https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF"
+        },
+        {
+          "name": "LexBlaze",
+          "pfp": "https://collaborators.buttermusic.dk/LexBlaze.jpg",
+          "spotify": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/5Zk1XK2RQAW3JkMgVOIRWA"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/down-dirty-feat-lexblaze/1854430751?i=1854430755"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/lefris-sc/down-dirty-feat-lex-blaze"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=dMBnrnYSrQo"
+        }
+      ]
+    },
+    {
+      "title": "Escape",
+      "year": "2025",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/EscapeArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Bass House/Future House",
+      "bpm": 128,
+      "key": "G# min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/5TTLZr9Z69fcP506gNlKcV"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/escape/1847952562?i=1847952567"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/ensismusicro/butter-escape-original-mix"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=7imHRug8Z8c"
+        }
+      ]
+    },
+    {
+      "title": "Take Me Back",
+      "year": "2025",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/TakeMeBackArtwork.jpg",
+      "label": "Bass House Music",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "B min",
+      "collaborators": [
+        {
+          "name": "AmÃ©l",
+          "pfp": "https://collaborators.buttermusic.dk/Amel.jpg",
+          "spotify": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+        },
+        {
+          "name": "Qaden James",
+          "pfp": "https://collaborators.buttermusic.dk/QadenJames.jpg",
+          "spotify": "https://open.spotify.com/artist/5dQFdCUQI9rxm6F78jWy5v"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/0FhPvLFeS5JFriirwgnfLe"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/take-me-back-single/1837417162"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/basshouse-music/butter-amel-qaden-james-take-me-back"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=SmZhKKfpY4g"
+        }
+      ]
+    },
+    {
+      "title": "Boomerang",
+      "year": "2025",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/BoomerangArtwork.jpg",
+      "label": "Bass House Music",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "F min",
+      "collaborators": [
+        {
+          "name": "Admess",
+          "pfp": "https://collaborators.buttermusic.dk/Admess.jpg",
+          "spotify": "https://open.spotify.com/artist/3IsBIPeTi4vJggXuPoEKpb"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/3f8XEj5OPkpstRt4MpA3Kj"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/boomerang-single/1832218455"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/basshouse-music/butter-admess-boomerang"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=L9SLezcuzwg"
+        }
+      ]
+    },
+    {
+      "title": "Can't Help",
+      "year": "2025",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/CantHelpArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Future House",
+      "bpm": 128,
+      "key": "B min",
+      "collaborators": [
+        {
+          "name": "Niiko Skies",
+          "pfp": "https://collaborators.buttermusic.dk/NiikoSkies.jpg",
+          "spotify": "https://open.spotify.com/artist/7DqD92l8Ga4QBPo5nFHAjP"
+        },
+        {
+          "name": "Simon Wiart",
+          "pfp": "https://collaborators.buttermusic.dk/SimonWiart.jpg",
+          "spotify": "https://open.spotify.com/artist/4w64FIWuxIGKlIEwpM3gov"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/7yvbDMq95p2QBVybOwHcwI"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/cant-help/1798481482?i=1798481483"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/ensismusicro/butter-niiko-skies-simon-1"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=Uu-qc3p-oZU"
+        }
+      ]
+    },
+    {
+      "title": "Back To The",
+      "year": "2025",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/BackToTheArtwork.jpg",
+      "label": "Fly Over Records",
+      "genre": "Future House",
+      "bpm": 126,
+      "key": "B min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/52mv4o1LTlE5WKK3TMWaEq"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/back-to-the/1798768018?i=1798768020"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/butter51646/back-to-the"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=zi1ezsdE1qM"
+        }
+      ]
+    },
+    {
+      "title": "Ghost Of You",
+      "year": "2025",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/GhostOfYouArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Future House",
+      "bpm": 128,
+      "key": "B min",
+      "collaborators": [
+        {
+          "name": "Andrew A",
+          "pfp": "https://collaborators.buttermusic.dk/AndrewA.jpg",
+          "spotify": "https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx"
+        },
+        {
+          "name": "beno",
+          "pfp": "https://collaborators.buttermusic.dk/Beno.jpg",
+          "spotify": "https://open.spotify.com/artist/77KJdHxfLGGNmoGy0NZvlm"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/7LEgfuDZDT7F009SwE1DnT"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/ghost-of-you/1850728716?i=1850728717"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/ensismusicro/butter-andrew-a-feat-beno"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=1JV_nrO2jnw"
+        }
+      ]
+    },
+    {
+      "title": "Obla",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/OblaArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Bass House",
+      "bpm": 128,
+      "key": "D# maj",
+      "collaborators": [
+        {
+          "name": "Daront",
+          "pfp": "https://collaborators.buttermusic.dk/Daront.jpg",
+          "spotify": "https://open.spotify.com/artist/3uX0RkLF4KplScNrzgPacW"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/1nQvHINLtq75LIPgJkGugo"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/obla/1780848322?i=1780848325"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/ensismusicro/butter-daront-obla"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=yFiD7DATls4"
+        }
+      ]
+    },
+    {
+      "title": "Woush",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/WoushArtwork.jpg",
+      "label": "SKINK Records",
+      "genre": "Bass House",
+      "bpm": 128,
+      "key": "F maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/2A9IqDEc0o8gtDS6X9AZX7"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/woush/1770972669?i=1770972670"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=7HZQBWVtE0Q"
+        }
+      ]
+    },
+    {
+      "title": "MISS U",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/MISSUArtwork.jpg",
+      "label": "2Dutch Records",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "F# maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/6na0qP2ojDB2zpdPe9yVV6"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/miss-u/1766740900?i=1766740901"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/2-dutch/butter-miss-u"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=t0vCtQijDUI"
+        }
+      ]
+    },
+    {
+      "title": "Nights",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/NightsArtwork.jpg",
+      "label": "Darklight Recordings",
+      "genre": "Tech House",
+      "bpm": 126,
+      "key": "F# min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/2EZkFNOkpRieFG44X0zYIB"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/nights-single/1764280744"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/darklightrec/nights"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=0xIA9xumhOA"
+        }
+      ]
+    },
+    {
+      "title": "Moon",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/MoonArtwork.jpg",
+      "label": "Fantastic",
+      "genre": "Chill House",
+      "bpm": 106,
+      "key": "C# maj",
+      "collaborators": [
+        {
+          "name": "Jack Dawson",
+          "pfp": "https://collaborators.buttermusic.dk/JackDawson.jpg",
+          "spotify": "https://open.spotify.com/artist/3uX0RkLF4KplScNrzgPacW"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/3sGfZ6AjLfSl3mdjkg3lon"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/song/moon-feat-jack-dawson/1747923506"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/itsfantastic/butter-ft-jack-dawson-moon"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=ePjaFJVfe6o"
+        }
+      ]
+    },
+    {
+      "title": "Shake It",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/ShakeItArtwork.jpg",
+      "label": "Spinnin' Talent Pool",
+      "genre": "Bass House",
+      "bpm": 125,
+      "key": "D min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/shake-it/1738508744?i=1738509383"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/shake-it"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=cKb7VUwrrRY"
+        }
+      ]
+    },
+    {
+      "title": "Taka Taka",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/TakaTakaArtwork.jpg",
+      "label": "Darklight Recordings",
+      "genre": "Bass House",
+      "bpm": 125,
+      "key": "A maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/0NVYKISyo8GbUJ6ArFyKCy"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/taka-taka/1741344143?i=1741344144"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/darklightrec/butter-taka-taka"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=HzvOdgx1vY0"
+        }
+      ]
+    },
+    {
+      "title": "Gonna Get Back",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/GonnaGetBackArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "F# maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/gonna-get-back/1850729220?i=1850729221"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/ensismusicro/butter-gonna-get-back-original-mix"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=5GRrvT0kgHc"
+        }
+      ]
+    },
+    {
+      "title": "Leaving",
+      "year": "2024",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/LeavingArtwork.jpg",
+      "label": "SKINK Records",
+      "genre": "Bass House",
+      "bpm": 125,
+      "key": "F maj",
+      "collaborators": [
+        {
+          "name": "Single Spark",
+          "pfp": "https://collaborators.buttermusic.dk/SingleSpark.jpg",
+          "spotify": "https://open.spotify.com/artist/2CHQJ8gVz5R8GPjcV1V7P9"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/1jMYyomHmE32xaSifYDego"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/leaving/1728880010?i=1728880011"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/skinkofficial/butter-single-spark-leaving"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=3W6wWOWi6j0"
+        }
+      ]
+    },
+    {
+      "title": "Going Up",
+      "year": "2023",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/GoingUpArtwork.jpg",
+      "label": "2Dutch Records",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "D maj",
+      "collaborators": [
+        {
+          "name": "Daniel Best",
+          "pfp": "https://collaborators.buttermusic.dk/DanielBest.jpg",
+          "spotify": "https://open.spotify.com/artist/21X9VaLa5Ag1smk5QohqiO"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/0u1iigR4tFHXrNEnJEofp4"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/going-up/1713931898?i=1713931900"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/2-dutch/butter-daniel-best-going-up"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=UEfsD7qJcEw"
+        }
+      ]
+    },
+    {
+      "title": "You Bring The Love",
+      "year": "2023",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/YouBringTheLoveArtwork.jpg",
+      "label": "SKINK Records",
+      "genre": "Bass House",
+      "bpm": 128,
+      "key": "A# min",
+      "collaborators": [
+        {
+          "name": "ENDRATE",
+          "pfp": "https://collaborators.buttermusic.dk/ENDRATE.jpg",
+          "spotify": "https://open.spotify.com/artist/2lWiGZiesfzg7aeQMAVtQq"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/2TSCgqOnwfLgPaKhxzVvc2"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/you-bring-the-love/1712113350?i=1712113351"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/skinkofficial/butter-endrate-you-bring-the-love"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=qbApNRNOvqg"
+        }
+      ]
+    },
+    {
+      "title": "Here With You",
+      "year": "2023",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/HereWithYouArtwork.jpg",
+      "label": "Soncora Music",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "C# min",
+      "collaborators": [
+        {
+          "name": "VAMERO",
+          "pfp": "https://collaborators.buttermusic.dk/VAMERO.jpg",
+          "spotify": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/3ofM6vMSZ9FWC0bUv6VzYg"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/here-with-you-single/1698349658"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=4NbpIsEvsKA"
+        }
+      ]
+    },
+    {
+      "title": "Bella Ciao",
+      "year": "2023",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/BellaCiaoArtwork.jpg",
+      "label": "One Seven Music",
+      "genre": "Future House",
+      "bpm": 126,
+      "key": "D min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/2OA2M9306nbRfDzfQv32vp"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/bella-ciao/1693343590?i=1693343594"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/butter51646/bella-ciao"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=6peIFAqS74o"
+        }
+      ]
+    },
+    {
+      "title": "No Superstar",
+      "year": "2023",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/NoSuperstarArtwork.jpg",
+      "label": "One Seven Music",
+      "genre": "Bass House",
+      "bpm": 124,
+      "key": "B min",
+      "collaborators": [
+        {
+          "name": "Boxter",
+          "pfp": "https://collaborators.buttermusic.dk/Boxter.jpg",
+          "spotify": "https://open.spotify.com/artist/65sT6Xz3nzLp3FXLjlLMoW"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/0wnMqxdG3qdOmmgLwTgFdC"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/hu/song/no-superstar-feat-boxter/1687353074"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/butter51646/no-superstar-feat-boxter"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=FnQc251HE_E"
+        }
+      ]
+    },
+    {
+      "title": "Best Shot",
+      "year": "2023",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/BestShotArtwork.jpg",
+      "label": "One Seven Music",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "C# min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/0bNsRYvrZokG8s7rfK3LS4"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/hu/album/best-shot/1669260557?i=1669260577"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/butter51646/best-shot"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=NTYI5XD3ssk"
+        }
+      ]
+    },
+    {
+      "title": "Blow It Up",
+      "year": "2022",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/BlowItUpArtwork.jpg",
+      "label": "SKINK Records",
+      "genre": "Bass House",
+      "bpm": 126,
+      "key": "F min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/5SeoPOzpb5XKIlId8QBJo9"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/blow-it-up/1730324846?i=1730324847"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/skinkofficial/sk218-butter-blow-it-up"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=uyI3fRoxaBI"
+        }
+      ]
+    },
+    {
+      "title": "This Is BUTTER",
+      "year": "2022",
+      "isEP": true,
+      "coverImage": "https://artworks.buttermusic.dk/ThisIsBUTTERArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Bass House",
+      "bpm": 127,
+      "key": "D min",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "This Is BUTTER",
+          "bpm": 126,
+          "key": "D min"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Mansion",
+          "featuring": "Michael Shynes",
+          "bpm": 128,
+          "key": "E min"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Crew",
+          "bpm": 128,
+          "key": "D# min"
+        },
+        {
+          "trackNumber": 4,
+          "title": "City Of Lights",
+          "bpm": 128,
+          "key": "C# min"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/album/1dbxBjOsditMdZRKS1cC2R"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/this-is-butter-ep/1850721955"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "replace"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/playlist?list=OLAK5uy_nh43HAinO-903J3NUwgYbrqYiziMGLwaE"
+        }
+      ]
+    },
+    {
+      "title": "Pieces",
+      "year": "2022",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/PiecesArtwork.jpg",
+      "label": "LoudKult",
+      "genre": "Slap House",
+      "bpm": 124,
+      "key": "F maj",
+      "collaborators": [
+        {
+          "name": "NAJA",
+          "pfp": "https://collaborators.buttermusic.dk/NAJA.jpg",
+          "spotify": "https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/5MrwrravPI5I8RI12AosT1"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/pieces-feat-naja/1625775640?i=1625775664"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/butter-piece-outro-final"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=KxHZeSy_pN4"
+        }
+      ]
+    },
+    {
+      "title": "Castles In The Sky",
+      "year": "2022",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/CastlesInTheSkyArtwork.jpg",
+      "label": "Magic Records",
+      "genre": "Slap House",
+      "bpm": 122,
+      "key": "A maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/4VBJA8l4pu5qW8NUeb7QsR"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/castles-in-the-sky-single/1747073116"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/butter-castles-in-the-sky-master"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=dwU27H6Md-Q"
+        }
+      ]
+    },
+    {
+      "title": "Pillow",
+      "year": "2022",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/PillowArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Slap House",
+      "bpm": 126,
+      "key": "C maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/4OqDGhoO0HsNFVyjFi4oqO"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/pillow-single/1850721192"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/butter-pillow-radio-new"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=QFYPS0c3cU8"
+        }
+      ]
+    },
+    {
+      "title": "With You",
+      "year": "2022",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/WithYouArtwork.jpg",
+      "label": "Ensis Records",
+      "genre": "Slap House",
+      "bpm": 122,
+      "key": "C# maj",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/23NLR2Wbyc41ow0PTfXmvT"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/ca/album/with-you-single/1850724262"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/buttermusicdk/butter-with-you"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=oV6U53LWcn8"
+        }
+      ]
+    },
+    {
+      "title": "In The Air Tonight",
+      "year": "2022",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/InTheAirTonightArtwork.jpg",
+      "label": "Future House Cloud",
+      "genre": "Future House",
+      "bpm": 126,
+      "key": "D min",
+      "collaborators": [
+        {
+          "name": "Simon Kynde",
+          "pfp": "https://collaborators.buttermusic.dk/SimonKynde.jpg",
+          "spotify": "https://open.spotify.com/artist/6eyLjQu3WVc3NAA2DV7jg4"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/2jbzKlv0X8olObtDRty6Zr"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/de/album/in-the-air-tonight/1606221206?i=1606221207&at=1001lbRT&ct=1155401"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/future-house-cloud/simon-kynde-butter-in-the-air-tonight"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=0wRHNDFLfNo"
+        }
+      ]
+    },
+    {
+      "title": "Ghost",
+      "year": "2021",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/GhostArtwork.jpg",
+      "label": "SLAP HOUSE MAFIA",
+      "genre": "Slap House",
+      "bpm": 128,
+      "key": "G min",
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/5OgGtrXr2tyAYw5oRH0Pmr"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/ghost-single/1600592346"
+        }
+      ]
+    }
+  ]
+}

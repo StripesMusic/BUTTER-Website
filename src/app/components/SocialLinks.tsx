@@ -4,37 +4,32 @@ import {
   Music2,
   Facebook,
   Mail,
+  Youtube,
+  type LucideIcon,
 } from "lucide-react";
+import socialsContent from "../../content/socials.json";
+
+const ICONS: Record<string, LucideIcon> = {
+  Instagram,
+  Facebook,
+  YouTube: Youtube,
+  Email: Mail,
+};
+
+// Links are edited in Pages CMS (src/content/socials.json). Email entries
+// can be a plain address; mailto: is added here.
+const socials = socialsContent.links
+  .filter((link) => link.url)
+  .map((link) => ({
+    name: link.platform,
+    icon: ICONS[link.platform] ?? Music2,
+    url:
+      link.platform === "Email" && !link.url.startsWith("mailto:")
+        ? `mailto:${link.url}`
+        : link.url,
+  }));
 
 export function SocialLinks() {
-  const socials = [
-    {
-      name: "Instagram",
-      icon: Instagram,
-      url: "https://www.instagram.com/buttermusicdk/",
-    },
-    {
-      name: "Spotify",
-      icon: Music2,
-      url: "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO",
-    },
-    {
-      name: "SoundCloud",
-      icon: Music2,
-      url: "https://soundcloud.com/buttermusicdk",
-    },
-    {
-      name: "Facebook",
-      icon: Facebook,
-      url: "https://www.facebook.com/ButterMusic1",
-    },
-    {
-      name: "Mail",
-      icon: Mail,
-      url: "mailto:management@buttermusic.dk",
-    },
-  ];
-
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}

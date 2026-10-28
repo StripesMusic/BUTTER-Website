@@ -1,10 +1,10 @@
 import { motion } from "motion/react";
 import { MapPin, Calendar, ExternalLink } from "lucide-react";
+import tour from "../../content/tour.json";
 
 type ShowStatus = "tickets" | "sold-out" | "coming-soon";
 
 interface Show {
-  id: number;
   date: string;
   city: string;
   venue: string;
@@ -13,18 +13,10 @@ interface Show {
   ticketUrl?: string;
 }
 
-export function TourSection() {
-  const shows: Show[] = [
-    {
-      id: 4,
-      date: "TBA",
-      city: "TBA",
-      venue: "TBA",
-      country: "TBA",
-      status: "coming-soon",
-    },
-  ];
+// Shows are edited in Pages CMS (src/content/tour.json).
+const shows = tour.shows as Show[];
 
+export function TourSection() {
   return (
     <section className="min-h-screen bg-gradient-to-b from-black via-gray-900/50 to-black py-20 pb-10 px-6 md:px-12 relative overflow-hidden">
       {/* Background accent */}
@@ -47,7 +39,7 @@ export function TourSection() {
         <div className="space-y-1">
           {shows.map((show, index) => (
             <motion.div
-              key={show.id}
+              key={index}
               initial={{ opacity: 0, x: -30 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
@@ -134,7 +126,7 @@ export function TourSection() {
           className="mt-6 text-center"
         >
           <p className="text-gray-600 text-sm">
-            More dates coming soon
+            {tour.note}
           </p>
         </motion.div>
       </div>
