@@ -1090,6 +1090,41 @@
           "url": "https://music.youtube.com/watch?v=IZf8YrLUnKc"
         }
       ]
+    },
+    {
+      "title": "To The Top",
+      "year": "2026",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/ToTheTopArtwork.jpg",
+      "label": "On The Way",
+      "genre": "Bass House/Future House",
+      "bpm": 130,
+      "key": "F# maj",
+      "collaborators": [
+        {
+          "name": "Exxoulls",
+          "pfp": "https://collaborators.buttermusic.dk/Exxoulls.jpg",
+          "spotify": "https://open.spotify.com/artist/2I2bXcPT0lKaC69KrIWBYg"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/track/2CBCbytlcJWw9qS2kooZSp"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/song/to-the-top/6819971136"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://soundcloud.com/onthewayrecords/exxoulls-butter-to-the-top-1"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=cXmG_9VxVSE"
+        }
+      ]
     }
   ]
 }
