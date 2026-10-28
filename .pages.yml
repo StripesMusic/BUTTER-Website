@@ -14,7 +14,6 @@ content:
     fields:
       - name: releases
         label: Releases
-        description: Shown on the site in this order, newest first.
         type: object
         list: true
         fields:
@@ -52,7 +51,6 @@ content:
               - { name: spotify, label: Spotify artist link, type: string }
           - name: streams
             label: Streaming links
-            description: Links that are empty or not full URLs are hidden on the site.
             type: object
             list: true
             fields:
@@ -95,7 +93,6 @@ content:
     fields:
       - name: links
         label: Links
-        description: The icons in the bottom-right corner, top to bottom.
         type: object
         list: true
         fields:

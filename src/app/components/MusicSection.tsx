@@ -21,9 +21,10 @@ const PLATFORM_COLORS: Record<string, string> = {
   "YouTube Music": "#ff0000",
 };
 
-// Releases are edited in Pages CMS (src/content/music.json). Stream links
-// that are still empty or placeholders are left out.
-const releases: Release[] = music.releases.map((release, index) => ({
+// Releases are edited in Pages CMS (src/content/music.json), stored oldest
+// first so new ones are added at the bottom, and shown here newest first.
+// Stream links that are still empty or placeholders are left out.
+const releases: Release[] = [...music.releases].reverse().map((release, index) => ({
   ...release,
   id: index,
   streams: release.streams
