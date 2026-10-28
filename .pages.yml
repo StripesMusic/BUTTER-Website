@@ -48,7 +48,10 @@ content:
             list: true
             fields:
               - { name: name, label: Name, type: string }
-              - { name: pfp, label: Profile picture, type: image }
+              - name: pfp
+                label: Profile picture link
+                description: "Full R2 link, e.g. https://collaborators.buttermusic.dk/ArtistName.jpg"
+                type: string
               - { name: spotify, label: Spotify artist link, type: string }
           - name: streams
             label: Streaming links
