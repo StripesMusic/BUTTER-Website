@@ -8,7 +8,7 @@
     "dev": "vite --host 0.0.0.0",
     "preview": "vite preview",
     "format": "oxfmt",
-    "deploy": "vite build && wrangler deploy"
+    "deploy": "vite build && wrangler pages deploy"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",

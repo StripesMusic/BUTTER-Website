@@ -2,9 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "butter-website",
   "compatibility_date": "2026-10-01",
-  "assets": {
-    "directory": "./dist",
-    // The app uses /music and /tour paths, so unknown paths serve index.html
-    "not_found_handling": "single-page-application"
-  }
+  // Cloudflare Pages serves this folder. With no 404.html, Pages falls back to
+  // index.html for unknown paths, so /music and /tour work on refresh.
+  "pages_build_output_dir": "./dist"
 }
