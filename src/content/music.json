@@ -1125,6 +1125,41 @@
           "url": "https://music.youtube.com/watch?v=cXmG_9VxVSE"
         }
       ]
+    },
+    {
+      "title": "The Ultimate",
+      "year": "2026",
+      "isEP": false,
+      "coverImage": "https://artworks.buttermusic.dk/TheUltimateArtwork.JPG",
+      "label": "Starboy Records",
+      "genre": "Tech House",
+      "bpm": 130,
+      "key": "B maj",
+      "collaborators": [
+        {
+          "name": "Wahlstedt",
+          "pfp": "https://collaborators.buttermusic.dk/Wahlstedt.JPG",
+          "spotify": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        }
+      ],
+      "streams": [
+        {
+          "platform": "Spotify",
+          "url": "https://open.spotify.com/album/6P14GwIxPGbokzAfkYzTWx"
+        },
+        {
+          "platform": "Apple Music",
+          "url": "https://music.apple.com/us/album/the-ultimate/6826057422?i=6826057423"
+        },
+        {
+          "platform": "SoundCloud",
+          "url": "https://on.soundcloud.com/1d432KG44zG1hPIYQy"
+        },
+        {
+          "platform": "YouTube Music",
+          "url": "https://music.youtube.com/watch?v=qjiHaBZqycY"
+        }
+      ]
     }
   ]
 }
