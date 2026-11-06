@@ -1130,7 +1130,7 @@
       "title": "The Ultimate",
       "year": "2026",
       "isEP": false,
-      "coverImage": "https://artworks.buttermusic.dk/TheUltimateArtwork.JPG",
+      "coverImage": "https://artworks.buttermusic.dk/TheUltimateArtwork.jpg",
       "label": "Starboy Records",
       "genre": "Tech House",
       "bpm": 130,
@@ -1138,7 +1138,7 @@
       "collaborators": [
         {
           "name": "Wahlstedt",
-          "pfp": "https://collaborators.buttermusic.dk/Wahlstedt.JPG",
+          "pfp": "https://collaborators.buttermusic.dk/Wahlstedt.jpg",
           "spotify": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         }
       ],

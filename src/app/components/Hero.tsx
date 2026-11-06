@@ -1,5 +1,9 @@
 import { motion } from "motion/react";
 import { useEffect, useState } from "react";
+import music from "../../content/music.json";
+
+// The newest release is the last one in the Pages CMS list.
+const latestRelease = music.releases[music.releases.length - 1];
 
 export function Hero() {
   const [mousePosition, setMousePosition] = useState({
@@ -88,8 +92,8 @@ export function Hero() {
           <div className="flex items-center gap-4">
             <div className="w-20 h-20 rounded flex-shrink-0 overflow-hidden group-hover:shadow-lg group-hover:shadow-purple-500/50 transition-all duration-500">
               <img
-                src="https://artworks.buttermusic.dk/LoseMyMindArtwork.jpg"
-                alt="Lose My Mind cover art"
+                src={latestRelease.coverImage}
+                alt={`${latestRelease.title} cover art`}
                 className="w-full h-full object-cover"
               />
             </div>
@@ -97,7 +101,9 @@ export function Hero() {
               <p className="text-xs text-gray-400 uppercase tracking-wider mb-1">
                 Latest Release
               </p>
-              <h3 className="text-white truncate">Lose My Mind</h3>
+              <h3 className="text-white truncate">
+                {latestRelease.title}
+              </h3>
               <p className="text-xs text-gray-500 mt-1">
                 Out Now
               </p>
